@@ -1,5 +1,5 @@
 {
- "version": 1,
+ "version": 2,
  "updated": "2026-11-16",
  "content": {
   "SCRAMBLE": [
@@ -1881,7 +1881,7 @@
    },
    {
     "t": "Australia is wider than the Moon.",
-    "url": "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/continental-extremities"
+    "url": "https://www.ga.gov.au/scientific-topics/national-location-information/geography/extreme-points"
    },
    {
     "t": "Polar bears have black skin under their white-looking fur.",
