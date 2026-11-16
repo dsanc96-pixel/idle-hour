@@ -1,0 +1,2018 @@
+{
+ "version": 1,
+ "updated": "2026-11-16",
+ "content": {
+  "SCRAMBLE": [
+   "APPLE",
+   "BREAD",
+   "CHAIR",
+   "CLOUD",
+   "HONEY",
+   "LEMON",
+   "MOUSE",
+   "NIGHT",
+   "ONION",
+   "PLANT",
+   "RIVER",
+   "TIGER",
+   "TRAIN",
+   "WATER",
+   "ZEBRA",
+   "STONE",
+   "SPOON",
+   "STORM",
+   "SUGAR",
+   "TABLE",
+   "PUZZLE",
+   "GARDEN",
+   "VOYAGE",
+   "HARBOR",
+   "MARBLE",
+   "PENCIL",
+   "SUNDAY",
+   "TICKET",
+   "VELVET",
+   "WINDOW",
+   "ANCHOR",
+   "CANDLE",
+   "NAPKIN",
+   "PICNIC",
+   "WALNUT",
+   "MEADOW",
+   "BRIDGE",
+   "CASTLE",
+   "GUITAR",
+   "ISLAND",
+   "KETTLE",
+   "MIRROR",
+   "ROCKET",
+   "SPIDER",
+   "LANTERN",
+   "WHISPER",
+   "BISCUIT",
+   "COMPASS",
+   "THUNDER",
+   "BLANKET",
+   "ORCHARD",
+   "BALLOON",
+   "DOLPHIN",
+   "FEATHER",
+   "GIRAFFE",
+   "HAMMOCK",
+   "JOURNAL",
+   "KITCHEN",
+   "LIBRARY",
+   "MUSTARD",
+   "QUARTER",
+   "RAINBOW",
+   "SPARROW",
+   "TRUMPET",
+   "VILLAGE",
+   "PRETZEL",
+   "CABINET",
+   "UMBRELLA",
+   "ELEPHANT",
+   "MOUNTAIN",
+   "SANDWICH",
+   "NOTEBOOK",
+   "DAFFODIL",
+   "CAMPFIRE",
+   "TREASURE",
+   "HOSPITAL",
+   "CALENDAR",
+   "CROCODILE",
+   "TELESCOPE",
+   "BUTTERFLY",
+   "CHOCOLATE",
+   "ADVENTURE",
+   "BASKET",
+   "BUTTON",
+   "COFFEE",
+   "DINNER",
+   "FLOWER",
+   "FOREST",
+   "JACKET",
+   "LADDER",
+   "MARKET",
+   "PILLOW",
+   "POCKET",
+   "SADDLE",
+   "SILVER",
+   "TUNNEL",
+   "VIOLIN",
+   "WINTER",
+   "BICYCLE",
+   "CHIMNEY",
+   "CURTAIN",
+   "DIAMOND",
+   "HARVEST",
+   "MORNING",
+   "PANCAKE",
+   "PENGUIN",
+   "POSTAGE",
+   "SNOWMAN",
+   "BACKYARD",
+   "DINOSAUR",
+   "FIREWORK",
+   "HEDGEHOG",
+   "LEMONADE",
+   "SEASHELL",
+   "STARFISH",
+   "WINDMILL",
+   "FISHERMAN"
+  ],
+  "WS": [
+   {
+    "name": "In the kitchen",
+    "words": [
+     "WHISK",
+     "LADLE",
+     "SKILLET",
+     "GRATER",
+     "SPATULA",
+     "COLANDER",
+     "TONGS",
+     "OVEN"
+    ]
+   },
+   {
+    "name": "At sea",
+    "words": [
+     "ANCHOR",
+     "HARBOR",
+     "SAILOR",
+     "COMPASS",
+     "TIDE",
+     "VOYAGE",
+     "CORAL",
+     "RUDDER"
+    ]
+   },
+   {
+    "name": "Board game night",
+    "words": [
+     "DICE",
+     "TOKEN",
+     "CARDS",
+     "SPINNER",
+     "BOARD",
+     "TIMER",
+     "SCORE",
+     "RULES"
+    ]
+   },
+   {
+    "name": "In the garden",
+    "words": [
+     "TROWEL",
+     "TULIP",
+     "COMPOST",
+     "HEDGE",
+     "SEEDS",
+     "TRELLIS",
+     "MULCH",
+     "BASIL"
+    ]
+   },
+   {
+    "name": "On the desk",
+    "words": [
+     "PENCIL",
+     "STAPLER",
+     "ERASER",
+     "NOTEBOOK",
+     "RULER",
+     "ENVELOPE",
+     "LAMP",
+     "MARKER"
+    ]
+   },
+   {
+    "name": "Weather report",
+    "words": [
+     "DRIZZLE",
+     "THUNDER",
+     "BREEZE",
+     "FROST",
+     "HUMID",
+     "CLOUDY",
+     "SLEET",
+     "SUNNY"
+    ]
+   },
+   {
+    "name": "At the bakery",
+    "words": [
+     "BAGEL",
+     "MUFFIN",
+     "SCONE",
+     "PRETZEL",
+     "DONUT",
+     "ECLAIR",
+     "CRUMPET",
+     "BISCUIT"
+    ]
+   },
+   {
+    "name": "In orbit",
+    "words": [
+     "COMET",
+     "PLANET",
+     "ROCKET",
+     "NEBULA",
+     "ORBIT",
+     "LUNAR",
+     "GALAXY",
+     "METEOR"
+    ]
+   },
+   {
+    "name": "At the zoo",
+    "words": [
+     "PANDA",
+     "LEMUR",
+     "OTTER",
+     "GIRAFFE",
+     "RHINO",
+     "TOUCAN",
+     "GIBBON",
+     "ZEBRA"
+    ]
+   },
+   {
+    "name": "Music room",
+    "words": [
+     "FLUTE",
+     "CELLO",
+     "BANJO",
+     "TRUMPET",
+     "VIOLIN",
+     "PIANO",
+     "OBOE",
+     "DRUMS"
+    ]
+   },
+   {
+    "name": "Camping trip",
+    "words": [
+     "TENT",
+     "LANTERN",
+     "CANOE",
+     "COMPASS",
+     "KINDLING",
+     "TRAIL",
+     "CAMPFIRE",
+     "HAMMOCK"
+    ]
+   },
+   {
+    "name": "Paint box",
+    "words": [
+     "SCARLET",
+     "INDIGO",
+     "AMBER",
+     "VIOLET",
+     "TEAL",
+     "MAROON",
+     "OLIVE",
+     "CORAL"
+    ]
+   },
+   {
+    "name": "Weather",
+    "words": [
+     "DRIZZLE",
+     "THUNDER",
+     "BREEZE",
+     "FROST",
+     "RAINBOW",
+     "CYCLONE",
+     "SLEET",
+     "MONSOON"
+    ]
+   },
+   {
+    "name": "Musical instruments",
+    "words": [
+     "CELLO",
+     "TRUMPET",
+     "BANJO",
+     "FLUTE",
+     "UKULELE",
+     "OBOE",
+     "HARP",
+     "CLARINET"
+    ]
+   },
+   {
+    "name": "On the map",
+    "words": [
+     "ISLAND",
+     "DELTA",
+     "CANYON",
+     "PLATEAU",
+     "GLACIER",
+     "VALLEY",
+     "HARBOR",
+     "VOLCANO"
+    ]
+   },
+   {
+    "name": "Board games",
+    "words": [
+     "CHESS",
+     "DOMINO",
+     "CHECKERS",
+     "DICE",
+     "PAWN",
+     "BISHOP",
+     "TOKEN",
+     "SPINNER"
+    ]
+   }
+  ],
+  "CROSS": [
+   [
+    "APPLE",
+    "Fruit said to keep the doctor away"
+   ],
+   [
+    "OCEAN",
+    "Atlantic or Pacific"
+   ],
+   [
+    "PIANO",
+    "Instrument with 88 keys"
+   ],
+   [
+    "TIGER",
+    "Striped big cat"
+   ],
+   [
+    "RIVER",
+    "The Nile or the Amazon"
+   ],
+   [
+    "BREAD",
+    "Loaf from a bakery"
+   ],
+   [
+    "CHAIR",
+    "Seat with a back"
+   ],
+   [
+    "CLOUD",
+    "Sky fluff"
+   ],
+   [
+    "EAGLE",
+    "Bird on the U.S. Great Seal"
+   ],
+   [
+    "HONEY",
+    "Sweet stuff from a hive"
+   ],
+   [
+    "LEMON",
+    "Sour yellow fruit"
+   ],
+   [
+    "MOUSE",
+    "Small rodent, or a computer pointer"
+   ],
+   [
+    "NIGHT",
+    "When the stars come out"
+   ],
+   [
+    "ONION",
+    "Vegetable that makes you cry"
+   ],
+   [
+    "PLANT",
+    "It grows in a pot"
+   ],
+   [
+    "QUEEN",
+    "Most powerful chess piece"
+   ],
+   [
+    "ROBOT",
+    "Mechanical helper"
+   ],
+   [
+    "SNAKE",
+    "Legless reptile"
+   ],
+   [
+    "TRAIN",
+    "It runs on rails"
+   ],
+   [
+    "UNCLE",
+    "Your parent's brother"
+   ],
+   [
+    "VIOLIN",
+    "Smallest instrument in the string section"
+   ],
+   [
+    "WATER",
+    "H2O"
+   ],
+   [
+    "ZEBRA",
+    "Striped African animal"
+   ],
+   [
+    "ANCHOR",
+    "It holds a ship in place"
+   ],
+   [
+    "BRIDGE",
+    "Structure over a river, or a card game"
+   ],
+   [
+    "CASTLE",
+    "Home for a king, or a chess move"
+   ],
+   [
+    "DESERT",
+    "The Sahara, for one"
+   ],
+   [
+    "ENGINE",
+    "It powers a car"
+   ],
+   [
+    "FOREST",
+    "Lots and lots of trees"
+   ],
+   [
+    "GUITAR",
+    "Six-stringed instrument"
+   ],
+   [
+    "ISLAND",
+    "Land surrounded by water"
+   ],
+   [
+    "JUNGLE",
+    "Dense tropical forest"
+   ],
+   [
+    "KETTLE",
+    "It whistles when the water boils"
+   ],
+   [
+    "LADDER",
+    "Climb it rung by rung"
+   ],
+   [
+    "MIRROR",
+    "It shows your reflection"
+   ],
+   [
+    "NEEDLE",
+    "Sewing tool with an eye"
+   ],
+   [
+    "ORANGE",
+    "A color and a fruit"
+   ],
+   [
+    "PEPPER",
+    "Salt's partner"
+   ],
+   [
+    "RABBIT",
+    "Long-eared hopper"
+   ],
+   [
+    "SILVER",
+    "Second-place medal"
+   ],
+   [
+    "TUNNEL",
+    "Passage through a mountain"
+   ],
+   [
+    "VALLEY",
+    "Low land between hills"
+   ],
+   [
+    "WINTER",
+    "Coldest season"
+   ],
+   [
+    "YELLOW",
+    "Color of a ripe banana"
+   ],
+   [
+    "ART",
+    "Museum display"
+   ],
+   [
+    "BEE",
+    "Honey maker"
+   ],
+   [
+    "CAT",
+    "Animal that purrs"
+   ],
+   [
+    "DOG",
+    "Animal that barks"
+   ],
+   [
+    "EGG",
+    "Breakfast item with a shell"
+   ],
+   [
+    "FOG",
+    "Low cloud that hides the road"
+   ],
+   [
+    "ICE",
+    "Frozen water"
+   ],
+   [
+    "JAM",
+    "Fruit spread, or a traffic problem"
+   ],
+   [
+    "KEY",
+    "It opens a lock"
+   ],
+   [
+    "MAP",
+    "Navigator's aid"
+   ],
+   [
+    "NET",
+    "Tennis court divider"
+   ],
+   [
+    "OWL",
+    "Bird that hoots"
+   ],
+   [
+    "PEN",
+    "Ink-filled writer"
+   ],
+   [
+    "SUN",
+    "Star at the center of our solar system"
+   ],
+   [
+    "TEA",
+    "Drink made from steeped leaves"
+   ],
+   [
+    "ARCH",
+    "Curved top of a doorway"
+   ],
+   [
+    "BELL",
+    "It rings"
+   ],
+   [
+    "COIN",
+    "Penny or dime"
+   ],
+   [
+    "DRUM",
+    "Instrument you hit with sticks"
+   ],
+   [
+    "ECHO",
+    "Sound that bounces back"
+   ],
+   [
+    "FERN",
+    "Feathery green plant"
+   ],
+   [
+    "GOLD",
+    "First-place medal"
+   ],
+   [
+    "HARP",
+    "Instrument with strings and a tall frame"
+   ],
+   [
+    "IRON",
+    "Metal with the symbol Fe"
+   ],
+   [
+    "KITE",
+    "Toy flown on a string"
+   ],
+   [
+    "LAMP",
+    "Light on a desk"
+   ],
+   [
+    "MOON",
+    "Earth's natural satellite"
+   ],
+   [
+    "NEST",
+    "Bird's home"
+   ],
+   [
+    "OVEN",
+    "Where bread bakes"
+   ],
+   [
+    "PEAR",
+    "Fruit that is wider at the bottom"
+   ],
+   [
+    "RAIN",
+    "Reason for an umbrella"
+   ],
+   [
+    "SALT",
+    "Pepper's partner"
+   ],
+   [
+    "TREE",
+    "Oak or maple"
+   ],
+   [
+    "WAVE",
+    "Surfer's ride, or a greeting"
+   ],
+   [
+    "YARN",
+    "Knitter's supply"
+   ],
+   [
+    "ZERO",
+    "Nothing at all"
+   ],
+   [
+    "STONE",
+    "Small rock"
+   ],
+   [
+    "SPOON",
+    "Soup utensil"
+   ],
+   [
+    "STORM",
+    "Thunder and lightning event"
+   ],
+   [
+    "SUGAR",
+    "Sweetener kept in a bowl"
+   ],
+   [
+    "TABLE",
+    "Furniture you eat at"
+   ],
+   [
+    "TOWER",
+    "Tall narrow building"
+   ],
+   [
+    "LIGHT",
+    "Opposite of dark"
+   ],
+   [
+    "MUSIC",
+    "What an orchestra plays"
+   ],
+   [
+    "PAPER",
+    "Sheet you write on"
+   ],
+   [
+    "GRAPE",
+    "Fruit that becomes wine"
+   ],
+   [
+    "HOUSE",
+    "Place to live"
+   ],
+   [
+    "CANDLE",
+    "Wax light with a wick"
+   ],
+   [
+    "GARDEN",
+    "Where flowers and vegetables grow"
+   ],
+   [
+    "MARKET",
+    "Place to buy produce"
+   ],
+   [
+    "POCKET",
+    "Pouch in your pants"
+   ],
+   [
+    "ROCKET",
+    "It launches into space"
+   ],
+   [
+    "SPIDER",
+    "Eight-legged web spinner"
+   ],
+   [
+    "TEAPOT",
+    "Vessel with a spout and a handle"
+   ],
+   [
+    "BASKET",
+    "Picnic carrier"
+   ],
+   [
+    "BOTTLE",
+    "Glass container with a neck"
+   ],
+   [
+    "CAMERA",
+    "It takes photos"
+   ],
+   [
+    "DINNER",
+    "Evening meal"
+   ],
+   [
+    "FLOWER",
+    "Rose or tulip"
+   ],
+   [
+    "PLANET",
+    "Mars or Venus"
+   ],
+   [
+    "SUMMER",
+    "Warmest season"
+   ],
+   [
+    "WINDOW",
+    "Glass pane in a wall"
+   ],
+   [
+    "PUZZLE",
+    "What you are solving right now"
+   ],
+   [
+    "ACORN",
+    "Oak's seed"
+   ],
+   [
+    "ALPACA",
+    "Woolly relative of the llama"
+   ],
+   [
+    "ATLAS",
+    "Book of maps"
+   ],
+   [
+    "BAGEL",
+    "Bread with a hole"
+   ],
+   [
+    "BEACON",
+    "Guiding light"
+   ],
+   [
+    "BISON",
+    "Shaggy animal of the plains"
+   ],
+   [
+    "CACTUS",
+    "Prickly desert plant"
+   ],
+   [
+    "CANOE",
+    "Paddled boat"
+   ],
+   [
+    "CHALK",
+    "Blackboard writer"
+   ],
+   [
+    "CLOVER",
+    "Lucky with four leaves"
+   ],
+   [
+    "COMET",
+    "Icy visitor with a tail"
+   ],
+   [
+    "CRAYON",
+    "Waxy colouring stick"
+   ],
+   [
+    "DAISY",
+    "Flower in a chain"
+   ],
+   [
+    "DENIM",
+    "Jeans fabric"
+   ],
+   [
+    "EMBER",
+    "Glowing bit of a dying fire"
+   ],
+   [
+    "FERRY",
+    "Boat that carries cars"
+   ],
+   [
+    "FOSSIL",
+    "Trace of ancient life in rock"
+   ],
+   [
+    "GECKO",
+    "Wall-climbing lizard"
+   ],
+   [
+    "GLOBE",
+    "Model of the Earth"
+   ],
+   [
+    "HAIKU",
+    "Three-line Japanese poem"
+   ],
+   [
+    "HERON",
+    "Long-legged wading bird"
+   ],
+   [
+    "IGLOO",
+    "House built of snow"
+   ],
+   [
+    "JIGSAW",
+    "Puzzle in pieces"
+   ],
+   [
+    "KAYAK",
+    "Palindromic boat"
+   ],
+   [
+    "LLAMA",
+    "Andean pack animal"
+   ],
+   [
+    "MAPLE",
+    "Tree that gives syrup"
+   ],
+   [
+    "NECTAR",
+    "What bees collect"
+   ],
+   [
+    "OASIS",
+    "Green spot in a desert"
+   ],
+   [
+    "ORBIT",
+    "Path around a planet"
+   ],
+   [
+    "OTTER",
+    "River mammal that floats on its back"
+   ],
+   [
+    "PEBBLE",
+    "Small smooth stone"
+   ],
+   [
+    "QUILT",
+    "Patchwork bed cover"
+   ],
+   [
+    "RADISH",
+    "Peppery red root"
+   ],
+   [
+    "SCARF",
+    "Winter neckwear"
+   ],
+   [
+    "THIMBLE",
+    "Sewer's finger guard"
+   ],
+   [
+    "TULIP",
+    "Dutch spring flower"
+   ],
+   [
+    "WAFFLE",
+    "Breakfast with a grid"
+   ],
+   [
+    "YACHT",
+    "Sailing boat for leisure"
+   ],
+   [
+    "ZIPPER",
+    "Jacket fastener"
+   ]
+  ],
+  "TRIVIA": [
+   [
+    "Which planet has the most known moons?",
+    "Saturn",
+    [
+     "Jupiter",
+     "Uranus",
+     "Neptune"
+    ]
+   ],
+   [
+    "Which is the only letter that appears in no U.S. state name?",
+    "Q",
+    [
+     "J",
+     "X",
+     "Z"
+    ]
+   ],
+   [
+    "How many keys does a standard piano have?",
+    "88",
+    [
+     "76",
+     "92",
+     "100"
+    ]
+   ],
+   [
+    "What is the smallest country in the world by area?",
+    "Vatican City",
+    [
+     "Monaco",
+     "San Marino",
+     "Liechtenstein"
+    ]
+   ],
+   [
+    "Which element has the chemical symbol Au?",
+    "Gold",
+    [
+     "Silver",
+     "Aluminum",
+     "Argon"
+    ]
+   ],
+   [
+    "What is the capital of Australia?",
+    "Canberra",
+    [
+     "Sydney",
+     "Melbourne",
+     "Perth"
+    ]
+   ],
+   [
+    "Who painted the ceiling of the Sistine Chapel?",
+    "Michelangelo",
+    [
+     "Leonardo da Vinci",
+     "Raphael",
+     "Botticelli"
+    ]
+   ],
+   [
+    "In what year did people first walk on the Moon?",
+    "1969",
+    [
+     "1965",
+     "1971",
+     "1958"
+    ]
+   ],
+   [
+    "What is the longest bone in the human body?",
+    "Femur",
+    [
+     "Tibia",
+     "Humerus",
+     "Spine"
+    ]
+   ],
+   [
+    "Which country gave the Statue of Liberty to the United States?",
+    "France",
+    [
+     "Britain",
+     "Spain",
+     "Italy"
+    ]
+   ],
+   [
+    "How many strings does a standard violin have?",
+    "4",
+    [
+     "5",
+     "6",
+     "8"
+    ]
+   ],
+   [
+    "Which Shakespeare play features Rosencrantz and Guildenstern?",
+    "Hamlet",
+    [
+     "Macbeth",
+     "Othello",
+     "King Lear"
+    ]
+   ],
+   [
+    "What is the largest ocean on Earth?",
+    "Pacific",
+    [
+     "Atlantic",
+     "Indian",
+     "Arctic"
+    ]
+   ],
+   [
+    "At what temperature does water freeze in Fahrenheit?",
+    "32°",
+    [
+     "0°",
+     "28°",
+     "40°"
+    ]
+   ],
+   [
+    "What is the hardest natural substance?",
+    "Diamond",
+    [
+     "Quartz",
+     "Granite",
+     "Obsidian"
+    ]
+   ],
+   [
+    "Which is the tallest land animal?",
+    "Giraffe",
+    [
+     "African elephant",
+     "Ostrich",
+     "Moose"
+    ]
+   ],
+   [
+    "How many squares are on a chessboard?",
+    "64",
+    [
+     "48",
+     "72",
+     "81"
+    ]
+   ],
+   [
+    "Which gas do plants take in from the air to make food?",
+    "Carbon dioxide",
+    [
+     "Oxygen",
+     "Nitrogen",
+     "Hydrogen"
+    ]
+   ],
+   [
+    "What is the largest planet in our solar system?",
+    "Jupiter",
+    [
+     "Saturn",
+     "Neptune",
+     "Earth"
+    ]
+   ],
+   [
+    "Which instrument has pedals, strings and hammers?",
+    "Piano",
+    [
+     "Harp",
+     "Organ",
+     "Cello"
+    ]
+   ],
+   [
+    "Which country spans the most time zones, counting its overseas territories?",
+    "France",
+    [
+     "Russia",
+     "United States",
+     "China"
+    ]
+   ],
+   [
+    "What is the chemical symbol for sodium?",
+    "Na",
+    [
+     "So",
+     "Sd",
+     "S"
+    ]
+   ],
+   [
+    "How many players does a soccer team have on the field?",
+    "11",
+    [
+     "9",
+     "10",
+     "12"
+    ]
+   ],
+   [
+    "What is the capital of Canada?",
+    "Ottawa",
+    [
+     "Toronto",
+     "Montreal",
+     "Vancouver"
+    ]
+   ],
+   [
+    "Which planet is known as the Red Planet?",
+    "Mars",
+    [
+     "Venus",
+     "Mercury",
+     "Jupiter"
+    ]
+   ],
+   [
+    "How many bones are in the adult human body?",
+    "206",
+    [
+     "186",
+     "226",
+     "256"
+    ]
+   ],
+   [
+    "Who wrote Pride and Prejudice?",
+    "Jane Austen",
+    [
+     "Charlotte Brontë",
+     "George Eliot",
+     "Mary Shelley"
+    ]
+   ],
+   [
+    "Which is the largest desert of any kind on Earth?",
+    "Antarctica",
+    [
+     "Sahara",
+     "Gobi",
+     "Arabian"
+    ]
+   ],
+   [
+    "Which metal is liquid at room temperature?",
+    "Mercury",
+    [
+     "Tin",
+     "Lead",
+     "Zinc"
+    ]
+   ],
+   [
+    "What is the tallest mountain above sea level?",
+    "Mount Everest",
+    [
+     "K2",
+     "Denali",
+     "Kilimanjaro"
+    ]
+   ],
+   [
+    "How many chambers does the human heart have?",
+    "4",
+    [
+     "2",
+     "3",
+     "6"
+    ]
+   ],
+   [
+    "What is the main ingredient in guacamole?",
+    "Avocado",
+    [
+     "Tomato",
+     "Lime",
+     "Pea"
+    ]
+   ],
+   [
+    "In which city would you find the Colosseum?",
+    "Rome",
+    [
+     "Athens",
+     "Istanbul",
+     "Naples"
+    ]
+   ],
+   [
+    "What do bees collect from flowers to make honey?",
+    "Nectar",
+    [
+     "Pollen only",
+     "Sap",
+     "Dew"
+    ]
+   ],
+   [
+    "Which is the longest river in South America?",
+    "Amazon",
+    [
+     "Orinoco",
+     "Paraná",
+     "Magdalena"
+    ]
+   ],
+   [
+    "How many colors are in a traditional rainbow?",
+    "7",
+    [
+     "5",
+     "6",
+     "8"
+    ]
+   ],
+   [
+    "What is the square root of 144?",
+    "12",
+    [
+     "11",
+     "14",
+     "16"
+    ]
+   ],
+   [
+    "Which artist painted The Starry Night?",
+    "Vincent van Gogh",
+    [
+     "Claude Monet",
+     "Pablo Picasso",
+     "Edvard Munch"
+    ]
+   ],
+   [
+    "Which language is mainly spoken in Brazil?",
+    "Portuguese",
+    [
+     "Spanish",
+     "French",
+     "English"
+    ]
+   ],
+   [
+    "How many minutes are in a full day?",
+    "1,440",
+    [
+     "1,240",
+     "1,640",
+     "2,400"
+    ]
+   ],
+   [
+    "What is the smallest prime number?",
+    "2",
+    [
+     "0",
+     "1",
+     "3"
+    ]
+   ],
+   [
+    "Which sea creature has eight arms?",
+    "Octopus",
+    [
+     "Squid",
+     "Starfish",
+     "Cuttlefish"
+    ]
+   ],
+   [
+    "What is the currency of Japan?",
+    "Yen",
+    [
+     "Won",
+     "Yuan",
+     "Baht"
+    ]
+   ],
+   [
+    "Which continent has the most countries?",
+    "Africa",
+    [
+     "Asia",
+     "Europe",
+     "South America"
+    ]
+   ],
+   [
+    "Who developed the theory of general relativity?",
+    "Albert Einstein",
+    [
+     "Isaac Newton",
+     "Niels Bohr",
+     "Galileo Galilei"
+    ]
+   ],
+   [
+    "How many cards are in a standard deck, without jokers?",
+    "52",
+    [
+     "48",
+     "54",
+     "56"
+    ]
+   ],
+   [
+    "At what temperature does water boil at sea level in Celsius?",
+    "100°",
+    [
+     "90°",
+     "110°",
+     "212°"
+    ]
+   ],
+   [
+    "Which is the largest bird alive today?",
+    "Ostrich",
+    [
+     "Emu",
+     "Condor",
+     "Albatross"
+    ]
+   ],
+   [
+    "How many letters are in the Greek alphabet?",
+    "24",
+    [
+     "22",
+     "26",
+     "28"
+    ]
+   ],
+   [
+    "What is the capital of Japan?",
+    "Tokyo",
+    [
+     "Kyoto",
+     "Osaka",
+     "Nagoya"
+    ]
+   ],
+   [
+    "Which blood type is the universal donor for red blood cells?",
+    "O negative",
+    [
+     "AB positive",
+     "A negative",
+     "B positive"
+    ]
+   ],
+   [
+    "How many sides does a hexagon have?",
+    "6",
+    [
+     "5",
+     "7",
+     "8"
+    ]
+   ],
+   [
+    "Which country is home to the kangaroo?",
+    "Australia",
+    [
+     "South Africa",
+     "Brazil",
+     "India"
+    ]
+   ],
+   [
+    "What is the tallest animal on land?",
+    "Giraffe",
+    [
+     "Elephant",
+     "Ostrich",
+     "Camel"
+    ]
+   ],
+   [
+    "Which gas do plants take in from the air?",
+    "Carbon dioxide",
+    [
+     "Oxygen",
+     "Nitrogen",
+     "Helium"
+    ]
+   ],
+   [
+    "Which instrument has 88 keys?",
+    "Piano",
+    [
+     "Organ",
+     "Accordion",
+     "Harp"
+    ]
+   ],
+   [
+    "Which is the smallest continent by area?",
+    "Australia",
+    [
+     "Europe",
+     "Antarctica",
+     "South America"
+    ]
+   ],
+   [
+    "What do bees make?",
+    "Honey",
+    [
+     "Silk",
+     "Wax paper",
+     "Syrup"
+    ]
+   ],
+   [
+    "In which city is the Colosseum?",
+    "Rome",
+    [
+     "Athens",
+     "Paris",
+     "Madrid"
+    ]
+   ],
+   [
+    "What is frozen water called?",
+    "Ice",
+    [
+     "Steam",
+     "Dew",
+     "Mist"
+    ]
+   ],
+   [
+    "Which bird is a symbol of peace?",
+    "Dove",
+    [
+     "Eagle",
+     "Owl",
+     "Swan"
+    ]
+   ],
+   [
+    "How many players are on the field for one soccer team?",
+    "Eleven",
+    [
+     "Nine",
+     "Ten",
+     "Twelve"
+    ]
+   ],
+   [
+    "What colour do you get by mixing blue and yellow?",
+    "Green",
+    [
+     "Purple",
+     "Orange",
+     "Brown"
+    ]
+   ],
+   [
+    "Which is the largest planet in the solar system?",
+    "Jupiter",
+    [
+     "Saturn",
+     "Neptune",
+     "Earth"
+    ]
+   ],
+   [
+    "How many continents are there?",
+    "Seven",
+    [
+     "Five",
+     "Six",
+     "Eight"
+    ]
+   ],
+   [
+    "Which animal is the largest living mammal?",
+    "Blue whale",
+    [
+     "African elephant",
+     "Giraffe",
+     "Hippopotamus"
+    ]
+   ]
+  ],
+  "SAYINGS": [
+   "A WATCHED POT NEVER BOILS",
+   "THE EARLY BIRD CATCHES THE WORM",
+   "MANY HANDS MAKE LIGHT WORK",
+   "A ROLLING STONE GATHERS NO MOSS",
+   "STILL WATERS RUN DEEP",
+   "EVERY CLOUD HAS A SILVER LINING",
+   "ACTIONS SPEAK LOUDER THAN WORDS",
+   "TWO HEADS ARE BETTER THAN ONE",
+   "THE PROOF OF THE PUDDING IS IN THE EATING",
+   "FORTUNE FAVORS THE BOLD",
+   "A STITCH IN TIME SAVES NINE",
+   "LOOK BEFORE YOU LEAP",
+   "PRACTICE MAKES PERFECT",
+   "WHERE THERE IS A WILL, THERE IS A WAY",
+   "A PICTURE IS WORTH A THOUSAND WORDS",
+   "BETTER LATE THAN NEVER",
+   "DO NOT COUNT YOUR CHICKENS BEFORE THEY HATCH",
+   "HONESTY IS THE BEST POLICY",
+   "THE GRASS IS ALWAYS GREENER ON THE OTHER SIDE",
+   "TOO MANY COOKS SPOIL THE BROTH",
+   "WHEN IN ROME, DO AS THE ROMANS DO",
+   "YOU CANNOT JUDGE A BOOK BY ITS COVER",
+   "A PENNY SAVED IS A PENNY EARNED",
+   "ABSENCE MAKES THE HEART GROW FONDER",
+   "ALL GOOD THINGS MUST COME TO AN END",
+   "BIRDS OF A FEATHER FLOCK TOGETHER",
+   "EASY COME, EASY GO",
+   "GOOD THINGS COME TO THOSE WHO WAIT",
+   "THE PEN IS MIGHTIER THAN THE SWORD",
+   "NECESSITY IS THE MOTHER OF INVENTION",
+   "SLOW AND STEADY WINS THE RACE",
+   "EVERY JOURNEY BEGINS WITH A SINGLE STEP"
+  ],
+  "CATS": [
+   {
+    "label": "fruits",
+    "items": [
+     "APPLE",
+     "MANGO",
+     "PEACH",
+     "CHERRY",
+     "PLUM",
+     "GRAPE"
+    ]
+   },
+   {
+    "label": "planets",
+    "items": [
+     "MARS",
+     "VENUS",
+     "SATURN",
+     "NEPTUNE",
+     "JUPITER",
+     "URANUS"
+    ]
+   },
+   {
+    "label": "musical instruments",
+    "items": [
+     "FLUTE",
+     "CELLO",
+     "TRUMPET",
+     "HARP",
+     "OBOE",
+     "BANJO"
+    ]
+   },
+   {
+    "label": "trees",
+    "items": [
+     "OAK",
+     "MAPLE",
+     "BIRCH",
+     "WILLOW",
+     "CEDAR",
+     "PINE"
+    ]
+   },
+   {
+    "label": "dog breeds",
+    "items": [
+     "POODLE",
+     "BEAGLE",
+     "COLLIE",
+     "PUG",
+     "CORGI",
+     "TERRIER"
+    ]
+   },
+   {
+    "label": "chess pieces",
+    "items": [
+     "KING",
+     "QUEEN",
+     "ROOK",
+     "BISHOP",
+     "KNIGHT",
+     "PAWN"
+    ]
+   },
+   {
+    "label": "metals",
+    "items": [
+     "IRON",
+     "COPPER",
+     "ZINC",
+     "NICKEL",
+     "SILVER",
+     "TIN"
+    ]
+   },
+   {
+    "label": "kitchen tools",
+    "items": [
+     "WHISK",
+     "LADLE",
+     "GRATER",
+     "SPATULA",
+     "TONGS",
+     "COLANDER"
+    ]
+   },
+   {
+    "label": "birds",
+    "items": [
+     "ROBIN",
+     "HERON",
+     "FALCON",
+     "SPARROW",
+     "PARROT",
+     "OWL"
+    ]
+   },
+   {
+    "label": "fabrics",
+    "items": [
+     "SILK",
+     "DENIM",
+     "LINEN",
+     "VELVET",
+     "WOOL",
+     "COTTON"
+    ]
+   },
+   {
+    "label": "pasta shapes",
+    "items": [
+     "PENNE",
+     "RIGATONI",
+     "FUSILLI",
+     "LINGUINE",
+     "ORZO",
+     "RAVIOLI"
+    ]
+   },
+   {
+    "label": "dances",
+    "items": [
+     "TANGO",
+     "WALTZ",
+     "SALSA",
+     "POLKA",
+     "RUMBA",
+     "FOXTROT"
+    ]
+   },
+   {
+    "label": "European capitals",
+    "items": [
+     "PARIS",
+     "ROME",
+     "MADRID",
+     "VIENNA",
+     "OSLO",
+     "LISBON"
+    ]
+   },
+   {
+    "label": "sea creatures",
+    "items": [
+     "SQUID",
+     "CRAB",
+     "LOBSTER",
+     "SHRIMP",
+     "OYSTER",
+     "EEL"
+    ]
+   },
+   {
+    "label": "gemstones",
+    "items": [
+     "RUBY",
+     "OPAL",
+     "TOPAZ",
+     "EMERALD",
+     "GARNET",
+     "PEARL"
+    ]
+   },
+   {
+    "label": "kinds of weather",
+    "items": [
+     "SLEET",
+     "DRIZZLE",
+     "HAIL",
+     "FOG",
+     "FROST",
+     "MIST"
+    ]
+   },
+   {
+    "label": "shapes",
+    "items": [
+     "CIRCLE",
+     "SQUARE",
+     "OVAL",
+     "TRIANGLE",
+     "PENTAGON",
+     "CUBE"
+    ]
+   },
+   {
+    "label": "things in the sky",
+    "items": [
+     "CLOUD",
+     "COMET",
+     "MOON",
+     "STAR",
+     "RAINBOW",
+     "SUN"
+    ]
+   },
+   {
+    "label": "breads",
+    "items": [
+     "BAGEL",
+     "PITA",
+     "NAAN",
+     "BAGUETTE",
+     "BRIOCHE",
+     "FOCACCIA"
+    ]
+   }
+  ],
+  "FACTS": [
+   {
+    "t": "Octopuses have three hearts and blue blood.",
+    "url": "https://en.wikipedia.org/wiki/Octopus"
+   },
+   {
+    "t": "Botanically, a banana is a berry and a strawberry is not.",
+    "url": "https://en.wikipedia.org/wiki/Berry_(botany)"
+   },
+   {
+    "t": "Venus takes longer to spin once on its axis than it does to orbit the Sun.",
+    "url": "https://en.wikipedia.org/wiki/Venus"
+   },
+   {
+    "t": "On a hot day the top of the Eiffel Tower can lean up to 18 centimetres away from the Sun as the iron expands.",
+    "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+   },
+   {
+    "t": "Wombats produce cube-shaped droppings.",
+    "url": "https://en.wikipedia.org/wiki/Wombat"
+   },
+   {
+    "t": "Teaching at Oxford began around 1096, more than two centuries before the Aztecs founded Tenochtitlan.",
+    "url": "https://en.wikipedia.org/wiki/University_of_Oxford"
+   },
+   {
+    "t": "A group of flamingos is called a flamboyance.",
+    "url": "https://en.wikipedia.org/wiki/Flamingo"
+   },
+   {
+    "t": "Scotland's national animal is the unicorn.",
+    "url": "https://en.wikipedia.org/wiki/National_symbols_of_Scotland"
+   },
+   {
+    "t": "The shortest war on record, between Britain and Zanzibar in 1896, was over in under an hour.",
+    "url": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War"
+   },
+   {
+    "t": "The earliest shark relatives appeared around 440 million years ago, before the first trees.",
+    "url": "https://en.wikipedia.org/wiki/Shark"
+   },
+   {
+    "t": "The dot over a lowercase i or j is called a tittle.",
+    "url": "https://en.wikipedia.org/wiki/Tittle"
+   },
+   {
+    "t": "A lightning bolt is roughly five times hotter than the surface of the Sun.",
+    "url": "https://www.weather.gov/safety/lightning-temperature"
+   },
+   {
+    "t": "The man who designed the Pringles can had some of his ashes buried in one.",
+    "url": "https://en.wikipedia.org/wiki/Fred_Baur"
+   },
+   {
+    "t": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid.",
+    "url": "https://en.wikipedia.org/wiki/Cleopatra"
+   },
+   {
+    "t": "There are more possible games of chess than atoms in the observable universe.",
+    "url": "https://en.wikipedia.org/wiki/Shannon_number"
+   },
+   {
+    "t": "Sealed honey can stay edible for thousands of years.",
+    "url": "https://en.wikipedia.org/wiki/Honey"
+   },
+   {
+    "t": "A group of crows is called a murder.",
+    "url": "https://en.wikipedia.org/wiki/Crow"
+   },
+   {
+    "t": "Koalas have fingerprints that look remarkably like human ones.",
+    "url": "https://en.wikipedia.org/wiki/Fingerprint"
+   },
+   {
+    "t": "The Hawaiian alphabet has just 13 letters.",
+    "url": "https://en.wikipedia.org/wiki/Hawaiian_alphabet"
+   },
+   {
+    "t": "Butterflies taste with their feet.",
+    "url": "https://en.wikipedia.org/wiki/Butterfly"
+   },
+   {
+    "t": "Venus spins in the opposite direction to most planets.",
+    "url": "https://en.wikipedia.org/wiki/Venus"
+   },
+   {
+    "t": "An ostrich's eyes are the largest of any land animal, about 5 centimetres across.",
+    "url": "https://en.wikipedia.org/wiki/Common_ostrich"
+   },
+   {
+    "t": "Hummingbirds can hover and fly in any direction, including backwards.",
+    "url": "https://en.wikipedia.org/wiki/Hummingbird"
+   },
+   {
+    "t": "An average cumulus cloud weighs around a million pounds.",
+    "url": "https://www.usgs.gov/water-science-school/science/how-much-does-a-cloud-weigh"
+   },
+   {
+    "t": "I and J were not treated as separate letters until the 16th century.",
+    "url": "https://en.wikipedia.org/wiki/J"
+   },
+   {
+    "t": "The Moon drifts about 3.8 centimetres farther from Earth every year.",
+    "url": "https://en.wikipedia.org/wiki/Lunar_distance"
+   },
+   {
+    "t": "Sea otters keep food, and sometimes a rock for cracking shells, in a pouch of loose skin under each forearm.",
+    "url": "https://en.wikipedia.org/wiki/Sea_otter"
+   },
+   {
+    "t": "Saturn is less dense than water.",
+    "url": "https://en.wikipedia.org/wiki/Saturn"
+   },
+   {
+    "t": "Bubble wrap was first invented as a kind of wallpaper.",
+    "url": "https://en.wikipedia.org/wiki/Bubble_wrap"
+   },
+   {
+    "t": "A single strand of spaghetti is called a spaghetto.",
+    "url": "https://en.wikipedia.org/wiki/Spaghetti"
+   },
+   {
+    "t": "Australia is wider than the Moon.",
+    "url": "https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/continental-extremities"
+   },
+   {
+    "t": "Polar bears have black skin under their white-looking fur.",
+    "url": "https://en.wikipedia.org/wiki/Polar_bear"
+   },
+   {
+    "t": "A medieval 'moment' was a unit of time lasting about 90 seconds on average.",
+    "url": "https://en.wikipedia.org/wiki/Moment_(unit)"
+   },
+   {
+    "t": "A blue whale's heart can weigh around 400 pounds.",
+    "url": "https://en.wikipedia.org/wiki/Blue_whale"
+   },
+   {
+    "t": "Early cultivated carrots were mostly purple or yellow, and the familiar orange carrot was bred later by Dutch growers.",
+    "url": "https://en.wikipedia.org/wiki/Carrot"
+   },
+   {
+    "t": "Measured from its base on the ocean floor, Hawaii's Mauna Kea rises higher than Mount Everest stands above sea level.",
+    "url": "https://en.wikipedia.org/wiki/Mauna_Kea"
+   },
+   {
+    "t": "Olympus Mons on Mars is about two and a half times as high as Mount Everest.",
+    "url": "https://en.wikipedia.org/wiki/Olympus_Mons"
+   },
+   {
+    "t": "Honey bees perform a waggle dance to tell hive-mates the direction and distance of flowers.",
+    "url": "https://en.wikipedia.org/wiki/Waggle_dance"
+   },
+   {
+    "t": "Axolotls can regrow lost limbs, gills and even parts of their eyes and brains.",
+    "url": "https://en.wikipedia.org/wiki/Axolotl"
+   },
+   {
+    "t": "Russia spans 11 time zones.",
+    "url": "https://en.wikipedia.org/wiki/Time_in_Russia"
+   },
+   {
+    "t": "Vatican City is the world's smallest country, covering less than half a square kilometre.",
+    "url": "https://en.wikipedia.org/wiki/Vatican_City"
+   },
+   {
+    "t": "Istanbul is a single city spread across two continents, Europe and Asia.",
+    "url": "https://en.wikipedia.org/wiki/Istanbul"
+   },
+   {
+    "t": "Peanuts are legumes from the bean and pea family, not true nuts.",
+    "url": "https://en.wikipedia.org/wiki/Peanut"
+   },
+   {
+    "t": "Vanilla comes from the seed pods of an orchid.",
+    "url": "https://en.wikipedia.org/wiki/Vanilla"
+   },
+   {
+    "t": "The croissant was inspired by an Austrian crescent-shaped pastry called the kipferl.",
+    "url": "https://en.wikipedia.org/wiki/Croissant"
+   },
+   {
+    "t": "The word 'alphabet' comes from alpha and beta, the first two letters of the Greek alphabet.",
+    "url": "https://en.wikipedia.org/wiki/Alphabet"
+   },
+   {
+    "t": "The ampersand began as a joined-up way of writing 'et', the Latin word for 'and'.",
+    "url": "https://en.wikipedia.org/wiki/Ampersand"
+   },
+   {
+    "t": "The sentence 'The quick brown fox jumps over the lazy dog' uses all 26 letters of the English alphabet.",
+    "url": "https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog"
+   },
+   {
+    "t": "The Rosetta Stone carries the same decree in three scripts: hieroglyphs, Demotic and Greek.",
+    "url": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+   },
+   {
+    "t": "Neptune takes about 165 Earth years to orbit the Sun once.",
+    "url": "https://en.wikipedia.org/wiki/Neptune"
+   },
+   {
+    "t": "Pluto has not yet completed a single orbit of the Sun since it was discovered in 1930.",
+    "url": "https://en.wikipedia.org/wiki/Pluto"
+   },
+   {
+    "t": "Sunlight takes a little over eight minutes to reach Earth.",
+    "url": "https://en.wikipedia.org/wiki/Sunlight"
+   },
+   {
+    "t": "Among seahorses, it is the male who carries the eggs, in a pouch on his tail.",
+    "url": "https://en.wikipedia.org/wiki/Seahorse"
+   },
+   {
+    "t": "Some species of bamboo can grow 91 centimetres in a single day.",
+    "url": "https://en.wikipedia.org/wiki/Bamboo"
+   },
+   {
+    "t": "The world's largest desert is Antarctica.",
+    "url": "https://en.wikipedia.org/wiki/Desert"
+   },
+   {
+    "t": "Lake Baikal in Siberia is the world's deepest lake, at more than 1,600 metres.",
+    "url": "https://en.wikipedia.org/wiki/Lake_Baikal"
+   },
+   {
+    "t": "A narwhal's tusk is actually a spiralled tooth that can grow up to three metres long.",
+    "url": "https://en.wikipedia.org/wiki/Narwhal"
+   },
+   {
+    "t": "Tardigrades, tiny animals also known as water bears, have survived exposure to outer space.",
+    "url": "https://en.wikipedia.org/wiki/Tardigrade"
+   },
+   {
+    "t": "The word 'tsunami' is Japanese for 'harbour wave'.",
+    "url": "https://en.wikipedia.org/wiki/Tsunami"
+   }
+  ],
+  "HACKS": [
+   "Stuck on a puzzle? Leave it for ten minutes. A short break often shakes the answer loose.",
+   "Freeze leftover herbs in olive oil in an ice cube tray, then drop a cube straight into the pan.",
+   "Before you stop work, write tomorrow's first task on a sticky note. Starting gets easier.",
+   "Wrap a warm drink in a wet paper towel and freeze it for 15 minutes to chill it fast.",
+   "Rub a shelled walnut over a light scratch in wood furniture to make it less visible.",
+   "Put your phone in another room while you do a puzzle. Out of reach works better than face down.",
+   "In a crossword, fill in the short words first. Their letters unlock the long ones.",
+   "In a code puzzle, a one-letter word is almost always A or I.",
+   "Take a photo of your fridge before you go grocery shopping.",
+   "Keep a pencil where you do puzzles. Being able to erase makes you braver about guessing.",
+   "Stuck on a word search? Scan for the rarest letter in the word, like Q, Z or K.",
+   "In a six by six grid, look for the row or box that is nearly full first.",
+   "Put a damp cloth under a chopping board to stop it sliding.",
+   "Read a crossword clue out loud. Hearing it can shake loose a second meaning.",
+   "Keep a short list of things that went well today. Three lines is enough.",
+   "In a maze, try working backwards from the finish."
+  ]
+ }
+}
