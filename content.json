@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "updated": "2026-11-16",
  "content": {
   "SCRAMBLE": [
@@ -119,7 +119,22 @@
    "SEASHELL",
    "STARFISH",
    "WINDMILL",
-   "FISHERMAN"
+   "FISHERMAN",
+   "BLOSSOM",
+   "CARAVAN",
+   "COTTAGE",
+   "DESSERT",
+   "FOUNTAIN",
+   "GLACIER",
+   "HORIZON",
+   "LETTUCE",
+   "MAGNET",
+   "NUTMEG",
+   "OYSTER",
+   "PARADE",
+   "RIBBON",
+   "SAILBOAT",
+   "VOLCANO"
   ],
   "WS": [
    {
@@ -328,6 +343,32 @@
      "BISHOP",
      "TOKEN",
      "SPINNER"
+    ]
+   },
+   {
+    "name": "At the beach",
+    "words": [
+     "SAND",
+     "SHELL",
+     "WAVE",
+     "TOWEL",
+     "BUCKET",
+     "SPADE",
+     "GULL",
+     "TIDE"
+    ]
+   },
+   {
+    "name": "Breakfast table",
+    "words": [
+     "TOAST",
+     "CEREAL",
+     "JUICE",
+     "BACON",
+     "MUFFIN",
+     "BUTTER",
+     "YOGURT",
+     "SYRUP"
     ]
    }
   ],
@@ -915,6 +956,86 @@
    [
     "ZIPPER",
     "Jacket fastener"
+   ],
+   [
+    "BADGE",
+    "Pinned-on emblem"
+   ],
+   [
+    "BARN",
+    "Farm building"
+   ],
+   [
+    "CELLO",
+    "Large string instrument played seated"
+   ],
+   [
+    "DUNE",
+    "Hill of sand"
+   ],
+   [
+    "ELBOW",
+    "Arm joint"
+   ],
+   [
+    "FLUTE",
+    "Woodwind held sideways"
+   ],
+   [
+    "GEYSER",
+    "Hot spring that erupts"
+   ],
+   [
+    "HAMMER",
+    "Tool for driving nails"
+   ],
+   [
+    "INK",
+    "Pen fluid"
+   ],
+   [
+    "JACKET",
+    "Short coat"
+   ],
+   [
+    "KOALA",
+    "Eucalyptus-eating marsupial"
+   ],
+   [
+    "LAGOON",
+    "Shallow sheltered water"
+   ],
+   [
+    "MITTEN",
+    "Winter glove with one thumb pocket"
+   ],
+   [
+    "NICKEL",
+    "Five-cent coin"
+   ],
+   [
+    "OPAL",
+    "Milky gemstone"
+   ],
+   [
+    "PARROT",
+    "Talkative bird"
+   ],
+   [
+    "RAFT",
+    "Flat floating platform"
+   ],
+   [
+    "SADDLE",
+    "Rider's seat"
+   ],
+   [
+    "TUNDRA",
+    "Treeless Arctic plain"
+   ],
+   [
+    "WALRUS",
+    "Tusked Arctic mammal"
    ]
   ],
   "TRIVIA": [
@@ -1511,6 +1632,96 @@
      "Giraffe",
      "Hippopotamus"
     ]
+   ],
+   [
+    "How many days are in a leap year?",
+    "366",
+    [
+     "365",
+     "364",
+     "367"
+    ]
+   ],
+   [
+    "Which ocean lies between Africa and Australia?",
+    "Indian Ocean",
+    [
+     "Atlantic Ocean",
+     "Pacific Ocean",
+     "Arctic Ocean"
+    ]
+   ],
+   [
+    "What is the capital of Italy?",
+    "Rome",
+    [
+     "Milan",
+     "Venice",
+     "Naples"
+    ]
+   ],
+   [
+    "How many sides does an octagon have?",
+    "Eight",
+    [
+     "Six",
+     "Seven",
+     "Ten"
+    ]
+   ],
+   [
+    "Which planet is closest to the Sun?",
+    "Mercury",
+    [
+     "Venus",
+     "Mars",
+     "Earth"
+    ]
+   ],
+   [
+    "What is the chemical symbol for oxygen?",
+    "O",
+    [
+     "Ox",
+     "Og",
+     "On"
+    ]
+   ],
+   [
+    "Who wrote Romeo and Juliet?",
+    "William Shakespeare",
+    [
+     "Charles Dickens",
+     "Jane Austen",
+     "Mark Twain"
+    ]
+   ],
+   [
+    "How many strings does a standard guitar have?",
+    "Six",
+    [
+     "Four",
+     "Five",
+     "Eight"
+    ]
+   ],
+   [
+    "What is the largest island in the world?",
+    "Greenland",
+    [
+     "Madagascar",
+     "Borneo",
+     "Iceland"
+    ]
+   ],
+   [
+    "How many hours are in two days?",
+    "48",
+    [
+     "24",
+     "36",
+     "72"
+    ]
    ]
   ],
   "SAYINGS": [
@@ -1545,7 +1756,10 @@
    "THE PEN IS MIGHTIER THAN THE SWORD",
    "NECESSITY IS THE MOTHER OF INVENTION",
    "SLOW AND STEADY WINS THE RACE",
-   "EVERY JOURNEY BEGINS WITH A SINGLE STEP"
+   "EVERY JOURNEY BEGINS WITH A SINGLE STEP",
+   "A FRIEND IN NEED IS A FRIEND INDEED",
+   "HASTE MAKES WASTE",
+   "THE BEST THINGS IN LIFE ARE FREE"
   ],
   "CATS": [
    {
@@ -1755,6 +1969,28 @@
      "BAGUETTE",
      "BRIOCHE",
      "FOCACCIA"
+    ]
+   },
+   {
+    "label": "vegetables",
+    "items": [
+     "CARROT",
+     "LEEK",
+     "TURNIP",
+     "CELERY",
+     "SPINACH",
+     "RADISH"
+    ]
+   },
+   {
+    "label": "colours",
+    "items": [
+     "SCARLET",
+     "INDIGO",
+     "MAROON",
+     "MAGENTA",
+     "BEIGE",
+     "CRIMSON"
     ]
    }
   ],
@@ -1994,6 +2230,42 @@
    {
     "t": "The word 'tsunami' is Japanese for 'harbour wave'.",
     "url": "https://en.wikipedia.org/wiki/Tsunami"
+   },
+   {
+    "t": "A giraffe's long neck comes from longer neck bones, not from having more of them.",
+    "url": "https://en.wikipedia.org/wiki/Giraffe"
+   },
+   {
+    "t": "The Great Barrier Reef is the world's largest coral reef system, made up of over 2,900 individual reefs.",
+    "url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef"
+   },
+   {
+    "t": "Mount Everest was measured in 2020 at 8,848.86 metres above sea level.",
+    "url": "https://en.wikipedia.org/wiki/Mount_Everest"
+   },
+   {
+    "t": "Greenland is the world's largest island.",
+    "url": "https://en.wikipedia.org/wiki/Greenland"
+   },
+   {
+    "t": "The Pacific Ocean covers about a third of Earth's surface, more than all the land combined.",
+    "url": "https://en.wikipedia.org/wiki/Pacific_Ocean"
+   },
+   {
+    "t": "A male emperor penguin incubates the single egg for about two months while the female feeds at sea.",
+    "url": "https://en.wikipedia.org/wiki/Emperor_penguin"
+   },
+   {
+    "t": "A kiwi's egg can be up to 20% of the female's weight, one of the largest of any bird for its size.",
+    "url": "https://en.wikipedia.org/wiki/Kiwi_(bird)"
+   },
+   {
+    "t": "The piano is credited to Bartolomeo Cristofori of Padua, Italy, who had built one by 1700.",
+    "url": "https://en.wikipedia.org/wiki/Piano"
+   },
+   {
+    "t": "Mount Kilimanjaro in Tanzania is the highest mountain in Africa, at 5,895 metres.",
+    "url": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro"
    }
   ],
   "HACKS": [
@@ -2012,7 +2284,9 @@
    "Put a damp cloth under a chopping board to stop it sliding.",
    "Read a crossword clue out loud. Hearing it can shake loose a second meaning.",
    "Keep a short list of things that went well today. Three lines is enough.",
-   "In a maze, try working backwards from the finish."
+   "In a maze, try working backwards from the finish.",
+   "In Target, try working backwards: ask what number you would need for one last step to hit the total.",
+   "Label leftovers with the date before they go in the fridge."
   ]
  }
 }
